@@ -1,0 +1,1 @@
+# Alerting Service\n\nModule reserved for threshold, pattern, predictive, and multi-channel alerts.\n

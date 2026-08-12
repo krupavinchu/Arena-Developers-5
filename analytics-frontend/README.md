@@ -1,0 +1,1 @@
+# React dashboard\n\nFrontend module placeholder. The specification calls for a real-time React dashboard with charts and WebSocket/SSE updates.\n

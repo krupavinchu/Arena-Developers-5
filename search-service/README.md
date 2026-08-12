@@ -1,0 +1,1 @@
+# Search Service\n\nModule reserved for Elasticsearch integration and advanced search.\n

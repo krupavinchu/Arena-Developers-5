@@ -1,0 +1,18 @@
+{
+  "project": "Advanced Real-time Analytics Dashboard",
+  "source_file": "Pasted markdown(1).md",
+  "modules": [
+    "alerting-service",
+    "analytics-backend",
+    "analytics-frontend",
+    "analytics-mobile",
+    "data-pipeline",
+    "docs",
+    "infrastructure",
+    "ml-models",
+    "monitoring",
+    "search-service",
+    "serverless-functions"
+  ],
+  "note": "Generated from the uploaded specification; supplied sample code is preserved verbatim where extracted."
+}
